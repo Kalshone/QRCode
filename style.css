@@ -1,0 +1,25 @@
+/*header style*/
+header {
+    text-align: center; 
+    padding: 200px;
+ }
+
+ .container {
+    border-radius: 10px;
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    font-family: "Outfit", sans-serif;
+    transform: translate(0, 45%);
+ }
+
+    .container h1 {
+        color: hsl(218, 44%, 22%);
+        font-size: 30px;
+    }
+
+    .container p {
+        color: hsl(212, 24%, 81%);
+        padding-bottom: 20px;
+    }
