@@ -5,13 +5,12 @@ This is a challenge to exercise my HTML and CSS skills.
 
 ## Running the files
 
-Simply open the `index.html` file in your browser!
+Run index.html on your own or click the link: [see it here!](https://kalshone.github.io/QRCode/)
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
@@ -21,10 +20,6 @@ Simply open the `index.html` file in your browser!
 ### Screenshot
 
 ![screenshot](https://github.com/Kalshone/QRCode/blob/main/images/qr-screenshot.png?raw=true)
-
-### Links
-
-- Solution URL: [See it here!](https://kalshone.github.io/QRCode/)
 
 ### Built with
 
