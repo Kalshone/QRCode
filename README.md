@@ -35,4 +35,4 @@ After finishing this project, I want to continue to focus in improving my HTML a
 ## Author
 
 - LinkedIn - [Katherine Pravdin](https://www.linkedin.com/in/katherinepravdin)
-- GitHub - [Kalshone](https://www.github.com/kalshone)# QRCode
+- GitHub - [Kalshone](https://www.github.com/kalshone/)
